@@ -128,5 +128,4 @@ Thus, whoever belonging to the Security group can access and contribute to the p
 
 * Another thing to note is that, project couldve been made smaller using only Azure Data factory but I added Databricks and Synapse Analytics to explore what these have to offer.
 
-Project done by Balachandar.S
 
